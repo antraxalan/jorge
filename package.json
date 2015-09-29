@@ -1,0 +1,19 @@
+{
+  "name": "cbnapp",
+  "version": "1.0.0",
+  "description": "CBN APP IBS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CBN",
+    "APP",
+    "IBS"
+  ],
+  "author": "Jorge Arze",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
